@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to DV Bank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@dvbank.com"
+    email: "{cipher}e9dbbcd1691d30d8bf18203ca3006609cd8d05d62879e4fd986bb9c551f910493a4083b9b7148eda03e8f363f810fe74"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
